@@ -1,5 +1,5 @@
 # Estatística Aplicada
-### MBA Data Science & Advanced Analytics
+#### MBA Data Science & Advanced Analytics
 
 Este repositório centraliza os projetos práticos, estudos de caso e análises estatísticas desenvolvidas durante a disciplina de **Estatística Aplicada**. O objetivo principal é consolidar conceitos fundamentais e avançados de inferência estatística, modelagem probabilística e análise exploratória utilizando dados reais.
 
